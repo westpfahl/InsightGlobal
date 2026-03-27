@@ -1,0 +1,10 @@
+# cms_hospital_downloader — requirements.txt
+#
+# All other dependencies (csv, hashlib, io, json, logging, re,
+# concurrent.futures, pathlib, argparse) are part of the Python
+# standard library and require no installation.
+#
+# Tested with Python 3.9+
+
+requests>=2.31.0
+urllib3>=2.0.0
